@@ -1,0 +1,27 @@
+{
+    "id": "3EDD2AF7",
+    "path": "~/BHT/ml-1/knn/simple_knn_question.r",
+    "project_path": "simple_knn_question.r",
+    "type": "r_source",
+    "hash": "1691975526",
+    "contents": "",
+    "dirty": false,
+    "created": 1724347584435.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "10,50",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1724349573,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1724349573313,
+    "read_only": false,
+    "read_only_alternatives": []
+}
